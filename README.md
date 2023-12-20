@@ -1,2 +1,1 @@
-# MA-CNN-A
-MA-CNN-A
+The code will be available once the paper is accepted.
